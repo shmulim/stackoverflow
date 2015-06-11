@@ -12,7 +12,6 @@
 
 // JS
 var div = document.getElementById('foo');
-
 div.addEventListener('click', function(){
     this.style.height = 100 + 'px';
     this.style.width = 100 + 'px';
