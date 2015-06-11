@@ -20,3 +20,4 @@ div.addEventListener('click', function(){
 });
 
 // http://stackoverflow.com/questions/30691002/resizable-div-implementation
+// http://jsfiddle.net/w015gohf/1/
